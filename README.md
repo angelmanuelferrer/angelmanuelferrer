@@ -29,4 +29,4 @@ Here are some of the projects I’ve worked on:
 
 - 📧 Email: [angelfaa19@gmail.com]
 - 💼 LinkedIn: [Ángel Ferrer Álvarez](https://www.linkedin.com/in/%C3%A1ngel-ferrer-%C3%A1lvarez-700149290/)  
-- 🖥️ GitHub: [angelmanuel](https://github.com/angelmanuel)
+- 🖥️ GitHub: [angelmanuelferrer](https://github.com/angelmanuelferrer)
