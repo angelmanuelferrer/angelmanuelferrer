@@ -50,7 +50,7 @@ I'm a final-year student specializing in **Software Engineering** at the Univers
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelmanuelferrer&theme=algolia" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelmanuelferrer&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
