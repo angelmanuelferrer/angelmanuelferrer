@@ -29,6 +29,11 @@ I'm a final-year student specializing in **Software Engineering** at the Univers
 - **Stack:** Python, Scikit-learn, NLTK, Whoosh.
 - **Highlights:** Engineered a complete Information Retrieval system for soccer player profiles. Implemented a text processing pipeline (Tokenization, Stemming, Stopwords) and developed two distinct search models: **Boolean** (using Whoosh) and **Vector Space** (using TF-IDF & Cosine Similarity). Evaluated performance metrics, achieving a **Mean Average Precision (MAP) of 0.80** with the vector model.
 
+### 🧬 [Soft Computing Labs](https://github.com/angelmanuelferrer/soft-computing-labs)
+*Computational Intelligence & Optimization*
+- **Stack:** Python, NumPy, Scikit-learn, TensorFlow.
+- **Highlights:** Implementation of advanced Soft Computing paradigms for complex problem solving. Developed **Genetic Algorithms** for evolutionary optimization, **Fuzzy Logic** systems for approximate reasoning, and **Neural Networks** (Adaline) for adaptive learning tasks.
+
 ### ✈️ [SkyBook Airline System](https://github.com/marrivbec/gii-is-DP2-C2.033)
 *Complex Domain Management System*
 - **Stack:** Java, Spring Boot, React.
