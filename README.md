@@ -39,21 +39,6 @@ I'm a final-year student specializing in **Software Engineering** at the Univers
 - **Stack:** React, Java.
 - **Highlights:** Collaborative development of an online board game engine, integrating game logic states, database persistence, and real-time user interface updates.
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelmanuelferrer&show_icons=true&theme=algolia&include_all_commits=true" alt="Angel's Stats" width="45%" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelmanuelferrer&layout=compact&theme=algolia" alt="Top Langs" width="45%" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelmanuelferrer&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
