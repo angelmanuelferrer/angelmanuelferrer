@@ -44,8 +44,13 @@ I'm a final-year student specializing in **Software Engineering** at the Univers
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelmanuelferrer&show_icons=true&theme=radical" alt="Angel's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmanuelferrer&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelmanuelferrer&show_icons=true&theme=algolia&include_all_commits=true" alt="Angel's Stats" width="45%" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelmanuelferrer&layout=compact&theme=algolia" alt="Top Langs" width="45%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelmanuelferrer&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
