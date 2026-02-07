@@ -39,9 +39,9 @@ I'm a final-year student specializing in **Software Engineering** at the Univers
 - **Stack:** Java, Spring Boot, React.
 - **Highlights:** Full-stack flight booking system handling complex domain logic, user roles, and database transactions.
 
-### 🎲 [UpStream Game Platform](https://github.com/gii-is-DP1/DP1-2024-2025--l4-4)
+### 🎲 [UpStream Game Platform](https://github.com/angelmanuelferrer/UpsStream)
 *Interactive Board Game Logic*
-- **Stack:** React, Java.
+- **Stack:** Spring-boot, React, Java.
 - **Highlights:** Collaborative development of an online board game engine, integrating game logic states, database persistence, and real-time user interface updates.
 
 
