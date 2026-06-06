@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineering Student | Full Stack & AI Enthusiast
 
-I'm a final-year student specializing in **Software Engineering** at the University of Seville. Currently intern at **Fusion Startups**, building scalable products with TypeScript and AI. I love bridging the gap between Data Science and robust Backend Engineering.
+I'm **Software Engineering** at the University of Seville. Currently working at **Fusion Startups**, building scalable products with TypeScript and AI. I love bridging the gap between Data Science and robust Backend Engineering.
 
 ---
 
