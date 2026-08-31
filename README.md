@@ -21,7 +21,7 @@ LLM integrations. Currently working towards the **AWS Solutions Architect Associ
 
 ## 📌 Featured Projects
 
-### 🔎 GEO-Audit — Generative Engine Optimization Audit *(Final Degree Project · 9.6/10)*
+### 🔎 [GEO-Audit — Generative Engine Optimization Audit *(Final Degree Project · 9.6/10)*](https://github.com/angelmanuelferrer/TFG-GEO-Audit.git)
 *Measuring web content visibility across generative search engines*
 - **Stack:** Python, FAISS, embeddings, CI/CD.
 - **Highlights:** Framework of 8 reproducible metrics (Share of Model, Citation Rate,
@@ -35,7 +35,7 @@ LLM integrations. Currently working towards the **AWS Solutions Architect Associ
   retrieval models — Boolean (Whoosh) and Vector Space (TF-IDF + cosine similarity) —
   reaching a **Mean Average Precision of 0.80** with the vector model.
 
-### ✈️ SkyBook — Airline Management System
+### ✈️ [SkyBook — Airline Management System](https://github.com/marrivbec/gii-is-DP2-C3.031.git)
 *Complex domain logic in Spring Boot*
 - **Stack:** Java, Spring Boot, JPA/Hibernate, Bean Validation.
 - **Highlights:** Owned the Airline Manager role end to end across all layers — flight and
