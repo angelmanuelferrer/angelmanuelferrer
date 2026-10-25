@@ -35,10 +35,10 @@ and working towards the **AWS Solutions Architect Associate**.
 <table>
   <tr>
     <td width="90" align="center">
-      <a href="https://FUSION_URL"><img src="https://www.google.com/s2/favicons?domain=FUSION_DOMAIN&sz=128" width="64" alt="Fusion Startups"/></a>
+      <a href="https://fusionstartups.com/"><img src="https://www.google.com/s2/favicons?domain=fusionstartups.com&sz=128" width="64" alt="Fusion Startups"/></a>
     </td>
     <td>
-      <b><a href="https://FUSION_URL">Fusion Startups</a></b> — Venture studio · Seville, Spain<br/>
+      <b><a href="https://fusionstartups.com/">Fusion Startups</a></b> — Venture studio · Seville, Spain<br/>
       <i>Software Engineer · Oct 2025 – Present</i><br/>
       Building generative-AI products for the studio's startups, from architecture to deployment.
     </td>
@@ -49,7 +49,7 @@ and working towards the **AWS Solutions Architect Associate**.
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://boneon.es"><img src="https://boneon.es/__l5e/assets-v1/87b5632c-04af-43ad-b15f-6f4945ee545c/boneon-logo-v3.png" height="48" alt="Boneon"/></a>
+        <a href="https://boneon.es"><img src="https://www.google.com/s2/favicons?domain=boneon.es&sz=128" height="48" alt="Boneon"/></a>
       </p>
       <h3 align="center">🦷 <a href="https://boneon.es">Boneon</a></h3>
       <p align="center"><i>AI clinical copilot for dental implant planning</i></p>
@@ -86,7 +86,7 @@ and working towards the **AWS Solutions Architect Associate**.
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://hostelex.es"><img src="https://hostelex.es/brands/hostelex/icon.png" height="48" alt="Hostelex"/></a>
+        <a href="https://hostelex.es"><img src="https://www.google.com/s2/favicons?domain=hostelex.es&sz=128" height="48" alt="Hostelex"/></a>
       </p>
       <h3 align="center">⚖️ <a href="https://hostelex.es">Hostelex</a></h3>
       <p align="center"><i>AI legal assistant for hospitality associations</i></p>
@@ -155,54 +155,127 @@ and working towards the **AWS Solutions Architect Associate**.
 
 ## 📌 Featured Projects
 
-### 🔎 [GEO-Audit — Generative Engine Optimization Audit *(Final Degree Project · 9.6/10)*](https://github.com/angelmanuelferrer/TFG-GEO-Audit)
-*Measuring web content visibility across generative search engines*
+> 🦷 **Boneon** — my main professional project — is featured in the [Fusion Startups section](#-experience--ai-products-at-fusion-startups) above *(private repo · architecture and model details omitted)*.
 
-- **Stack:** Python, FastAPI, FAISS, embeddings, CI/CD.
-- **Highlights:** Framework of 8 reproducible metrics (Share of Model, Citation Rate,
-  sentiment, per-engine coverage). Live evaluation across 4 engines plus a frozen-vectorstore
-  RAG simulator with versioned prompts. 172 automated tests and an A rating on SonarCloud.
-
-### 📚 [Biblioteca Digital — GraphQL API on MongoDB](https://github.com/angelmanuelferrer/Biblioteca-Digital-CBD)
-*NoSQL data modelling and a typed API layer*
-
-- **Stack:** Node.js, TypeScript, GraphQL, MongoDB, JWT, React.
-- **Highlights:** NoSQL schema design for users, authors, books, loans and reviews, exposed
-  through typed GraphQL queries and mutations. JWT authentication with role-based access
-  control (user / admin) enforced at resolver level, a standalone React client and continuous
-  deployment on [Render](https://biblioteca-digital-cbd.onrender.com/).
-
-### 🎮 [UpsStream — Full-stack web platform](https://github.com/angelmanuelferrer/UpsStream)
-*Spring Boot 3 service with a documented REST API*
-
-- **Stack:** Java, Spring Boot 3, Spring Security + JWT, JPA/Hibernate, MySQL, Docker Compose.
-- **Highlights:** REST API documented with OpenAPI/Swagger, role-based authentication and
-  authorization, reproducible environment via Docker Compose, CI pipeline and unit +
-  integration test coverage measured with JaCoCo. React frontend consuming the API. Team project.
-
-### ✈️ [SkyBook — Airline Management System](https://github.com/marrivbec/gii-is-DP2-C3.031)
-*Complex domain logic in Spring*
-
-- **Stack:** Java, Spring MVC, JPA/Hibernate, Bean Validation, Maven.
-- **Highlights:** Owned the Airline Manager role end to end across all layers — flight and
-  leg management, publication workflow, custom business validators (IATA code consistency,
-  uniqueness, geographic coherence), a JPQL overlap query preventing double aircraft
-  assignment, and a statistics dashboard. Team project.
-
-### ⚽ [GoSoccer — Information Retrieval Engine](https://github.com/angelmanuelferrer/GoSoccer)
-*End-to-end search system & NLP pipeline*
-
-- **Stack:** Python, Scikit-learn, NLTK, Whoosh.
-- **Highlights:** Text processing pipeline (tokenization, stemming, stopwords) and two
-  retrieval models — Boolean (Whoosh) and Vector Space (TF-IDF + cosine similarity) —
-  reaching a **Mean Average Precision of 0.80** with the vector model.
-
-### 🎾 [Tennis-Hub — DevOps & CI/CD](https://github.com/AlbertoValenzuelaMunoz1/tennis-hub)
-*Engineering automation*
-
-- **Stack:** Docker, Vagrant, GitHub Actions, Shell.
-- **Highlights:** CI/CD pipeline automating testing and deployment, with a containerized
-  environment for reproducibility across development stages. Team project.
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🔎 <a href="https://github.com/angelmanuelferrer/TFG-GEO-Audit">GEO-Audit — Generative Engine Optimization Audit</a></h3>
+      <p align="center"><i>Final Degree Project · Measuring web content visibility across generative search engines</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Grade-9.6%2F10-16a34a?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Tests-172%20automated-2563EB?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/SonarCloud-A%20rating-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Engines-4%20evaluated-7c3aed?style=for-the-badge"/>
+      </p>
+      <ul>
+        <li>Framework of <b>8 reproducible metrics</b> (Share of Model, Citation Rate, sentiment, per-engine coverage).</li>
+        <li>Live evaluation across <b>4 engines</b> (Gemini, ChatGPT, Claude, Perplexity) plus a frozen-vectorstore RAG simulator with versioned prompts.</li>
+        <li>172 automated tests and an A rating on SonarCloud.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Embeddings-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        &nbsp;&nbsp;
+        <a href="https://github.com/angelmanuelferrer/TFG-GEO-Audit"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚽ <a href="https://github.com/angelmanuelferrer/GoSoccer">GoSoccer</a></h3>
+      <p align="center"><i>Information Retrieval Engine · End-to-end search system & NLP pipeline</i></p>
+      <p align="center"><img src="https://img.shields.io/badge/MAP-0.80-16a34a?style=for-the-badge"/></p>
+      <ul>
+        <li>Text processing pipeline (tokenization, stemming, stopwords).</li>
+        <li>Two retrieval models — Boolean (Whoosh) and Vector Space (TF-IDF + cosine similarity) — reaching a <b>Mean Average Precision of 0.80</b> with the vector model.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Whoosh-111827?style=flat-square"/>
+        <br/>
+        <a href="https://github.com/angelmanuelferrer/GoSoccer"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 <a href="https://github.com/angelmanuelferrer/Biblioteca-Digital-CBD">Biblioteca Digital</a></h3>
+      <p align="center"><i>GraphQL API on MongoDB · NoSQL data modelling and a typed API layer</i></p>
+      <ul>
+        <li>NoSQL schema design for users, authors, books, loans and reviews, exposed through typed GraphQL queries and mutations.</li>
+        <li>JWT authentication with role-based access control (user / admin) enforced at resolver level.</li>
+        <li>Standalone React client and continuous deployment on Render.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <br/>
+        <a href="https://github.com/angelmanuelferrer/Biblioteca-Digital-CBD"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="https://biblioteca-digital-cbd.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-46E3B7?style=flat-square&logo=render&logoColor=black"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 <a href="https://github.com/angelmanuelferrer/UpsStream">UpsStream</a></h3>
+      <p align="center"><i>Full-stack web platform · Spring Boot 3 service with a documented REST API</i></p>
+      <ul>
+        <li>REST API documented with OpenAPI/Swagger and role-based authentication and authorization.</li>
+        <li>Reproducible environment via Docker Compose, CI pipeline and unit + integration test coverage measured with JaCoCo.</li>
+        <li>React frontend consuming the API. <i>Team project.</i></li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <br/>
+        <a href="https://github.com/angelmanuelferrer/UpsStream"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ <a href="https://github.com/marrivbec/gii-is-DP2-C3.031">SkyBook</a></h3>
+      <p align="center"><i>Airline Management System · Complex domain logic in Spring</i></p>
+      <ul>
+        <li>Owned the Airline Manager role end to end across all layers — flight and leg management and publication workflow.</li>
+        <li>Custom business validators (IATA code consistency, uniqueness, geographic coherence) and a JPQL overlap query preventing double aircraft assignment.</li>
+        <li>Statistics dashboard. <i>Team project.</i></li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+        <br/>
+        <a href="https://github.com/marrivbec/gii-is-DP2-C3.031"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🎾 <a href="https://github.com/AlbertoValenzuelaMunoz1/tennis-hub">Tennis-Hub — DevOps & CI/CD</a></h3>
+      <p align="center"><i>Engineering automation · Team project</i></p>
+      <p align="center">CI/CD pipeline automating testing and deployment, with a containerized environment for reproducibility across development stages.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+        &nbsp;&nbsp;
+        <a href="https://github.com/AlbertoValenzuelaMunoz1/tennis-hub"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
