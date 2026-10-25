@@ -154,7 +154,6 @@ and working towards the **AWS Solutions Architect Associate**.
 
 ## 📌 Featured Projects
 
-> 🦷 **Boneon** — my main professional project — is featured in the [Fusion Startups section](#-experience--ai-products-at-fusion-startups) above *(private repo · architecture and model details omitted)*.
 
 <table>
   <tr>
