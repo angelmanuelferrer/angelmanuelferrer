@@ -124,8 +124,7 @@ and working towards the **AWS Solutions Architect Associate**.
 <table>
   <tr>
     <td width="90" align="center">
-      <a href="https://www.us.es"><img src="https://www.google.com/s2/favicons?domain=us.es&sz=128" width="64" alt="Universidad de Sevilla"/></a>
-    </td>
+      <a href="https://www.us.es"><img src="https://icons.duckduckgo.com/ip3/www.us.es.ico" width="64" alt="Universidad de Sevilla"/></a>    </td>
     <td>
       <b><a href="https://www.us.es">University of Seville</a></b> — ETSII · Seville, Spain<br/>
       🎓 <b>Master's in Software Engineering: Cloud, Data & IT Management</b> · <i>2026 – 2027 (in progress)</i><br/>
