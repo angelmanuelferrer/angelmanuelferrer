@@ -101,8 +101,10 @@ and working towards the **AWS Solutions Architect Associate**.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🥗 Numisalud</h3>
-      <p align="center"><i>AI platform for nutritionists</i></p>
+      <p align="center">
+        <a href="https://numisalud.com/"><img src="https://www.google.com/s2/favicons?domain=numisalud.com&sz=128" height="48" alt="Numisalud"/></a>
+      </p>
+      <h3 align="center">🥗 <a href="https://numisalud.com/">Numisalud</a></h3>      <p align="center"><i>AI platform for nutritionists</i></p>
       <ul>
         <li>AI agent that generates contextualised recommendations from each professional's own clinical corpus.</li>
         <li>Vector search on Supabase with row-level security, so every professional only retrieves their own data.</li>
